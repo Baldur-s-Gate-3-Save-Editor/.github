@@ -12,6 +12,12 @@ The tool provides safe, structured editing of character data, flags, and progres
 
 ---
 
+### - 🔗 ***Get the Latest Release:***
+
+- [💾 Releases Section](https://github.com/Baldur-s-Gate-3-Save-Editor/.github/releases) = `*Latest Release*`
+
+---
+
 ## **Features**
 
 - **Automatic Baldur’s Gate 3 save folder detection**
