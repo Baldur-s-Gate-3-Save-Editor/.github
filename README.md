@@ -14,7 +14,7 @@ The tool provides safe, structured editing of character data, flags, and progres
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Section](https://github.com/Baldur-s-Gate-3-Save-Editor/.github/releases) = `*Releases Section*`
+- [💾 Releases Section](https://github.com/Baldur-s-Gate-3-Save-Editor/.github/releases) = `*Latest Release*`
 
 ---
 
